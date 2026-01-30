@@ -28,5 +28,7 @@ for row in range(38):
             # ... additional mapping ...
         print(char, end='')
     print()
+
+    
   🎓 Academic Context
 This project was developed as part of a B.Tech software development exercise to understand low-level frame-buffer manipulation, nested loop efficiency, and precise UI/UX terminal rendering.
