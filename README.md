@@ -1,4 +1,5 @@
 ASCII Image Generator: Coordinate-Based Terminal Rendering
+
 📌 Project Overview
 This project is a Python-based ASCII art renderer that reproduces a complex terminal image using precise coordinate mapping. 
 Unlike standard image-to-ASCII converters, this script uses high-fidelity nested logic and coordinate ranges to ensure every character is
